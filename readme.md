@@ -194,7 +194,5 @@ PPI explanations of the cells
 
 ### Cite Cell  Decoder:
 
-Zhu et al. Decoding cell identity with multi-scale explainable deep learning. bioRxiv 2024.02.05.578922
-
-[https://doi.org/10.1101/2024.02.05.578922]
+Zhu, J., Zhang, Z., Xiang, Y., Xie, B., Dong, X., Xie, L., ... & Chang, C. (2025). Cell Decoder: decoding cell identity with multi-scale explainable deep learning. Genome Biology, 26(1), 359.
 
